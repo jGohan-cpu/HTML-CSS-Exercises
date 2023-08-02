@@ -1,4 +1,4 @@
-# Holberton HTML/CSS-Exercises
+# Holberton HTML_CSS-Exercises
 
 CSS_Advanced: CSS exercises
 
